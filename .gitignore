@@ -1,0 +1,6 @@
+*.exe
+test
+*.cmi
+*.cmo
+*.log
+*.cache
